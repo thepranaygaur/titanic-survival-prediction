@@ -225,7 +225,7 @@ streamlit run app.py
 
 ## 📸 Screenshots
 
-(Add screenshots inside screenshots folder)
+![App Demo](screenshots/app_demo.png)
 
 Examples:
 
